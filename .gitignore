@@ -1,3 +1,5 @@
 .idea/
 .venv/
 venv/
+token.json
+data.json
