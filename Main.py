@@ -66,7 +66,8 @@ def main():
     ax.text(
             0.05,
             1.0,
-            "Sur une échelle de 0 (cools) à 5 (insupportables), \nlorsque vous vous déplacer à vélo, comment décririez-vous \nle comportement des automobilistes que vous croisez ?",
+            "Sur une échelle de 0 (cools) à 5 (insupportables), \nlorsque vous vous déplacer à vélo, "
+            "comment décririez-vous \nle comportement des automobilistes que vous croisez ?",
             transform=ax.transAxes,
             fontsize=9
     )
